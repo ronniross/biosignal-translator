@@ -199,6 +199,7 @@ And also for the many other different forms of intelligence that don't communica
 
 #### 2.7 Causality and Plantary Memory
 
+```python
 class CausalityVisualizer:
     def __init__(self):
         self.temporal_resolutions = {
@@ -257,7 +258,7 @@ class PlanetaryMemorySystem:
                 }
             ]
             return self._extract_modern_applications(historical_precedents)
-
+```
 
 ### 3. Catching the signals from their roots - REAL WORLD DATA
 
