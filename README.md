@@ -283,6 +283,29 @@ They provided evidence that simplifying ecosystems (monoculture farming) drastic
 
 They documented how a handful of transnational corporations now control the majority of marine genetic resources and seafood production, creating a "fragility" in the ocean economy similar to the "too big to fail" banks of 2008. [9](https://www.pik-potsdam.de/en/news/latest-news/land-and-ocean-carbon-sinks-weakening-and-other-new-insights-from-climate-science#:~:text=The%20report%20warns%20global%20climate,Climate%20Impact%20Research%20(PIK)) [10](https://www.pik-potsdam.de/en/news/latest-news/state-of-the-climate-2025-earths-vital-signs-worsen-science-shows-options-for-livable-future#:~:text=29.10.,State%20of%20the%20climate%E2%80%9D%20report)
 
+
+#### 3.2 Potsdam Institute for Climate Impact Research (PIK)
+
+Germany | Focus: The "Medical Chart" & Physical Limits
+
+In late 2024 and throughout 2025, PIK focused heavily on operationalizing the "Planetary Health Check"—turning theoretical science into a hard, annual "medical report" for the Earth.
+
+Major Report: "Planetary Health Check 2025" (Released Sept 2025)
+
+This is the definitive update you are looking for. It confirmed that 7 out of 9 planetary boundaries are now breached. [11](https://www.su.se/english/news/seven-of-nine-planetary-boundaries-now-breached-1.849405)
+
+The specific recent change is Ocean Acidification. For the first time, this boundary was formally declared "breached" (moved from "safe" to "high risk"). [12](https://earthcommission.org/planetary-health-check-7-of-9-boundaries-breached/) [13](https://www.su.se/english/news/seven-of-nine-planetary-boundaries-now-breached-1.849405)
+
+They reported that 22 of the planet’s 34 "vital signs" are at record extremes. [14](https://www.pik-potsdam.de/en/news/latest-news/state-of-the-climate-2025-earths-vital-signs-worsen-science-shows-options-for-livable-future)
+
+PIK released data showing that land and ocean carbon sinks (forests and seas that absorb CO2) are performing worse than models predicted. [15](https://www.pik-potsdam.de/en/news/latest-news/land-and-ocean-carbon-sinks-weakening-and-other-new-insights-from-climate-science)
+
+They found that nature is beginning to "lose its breath," absorbing less of our emissions, which means human emissions will heat the planet faster than before.
+
+New studies on the Atlantic Meridional Overturning Circulation (the ocean current that warms Europe/North America). [16](https://www.pik-potsdam.de/en/institute/departments/climate-economics-and-policy)
+
+They identified early warning signals that this current is on course for collapse much earlier than the year 2100, potentially shifting weather patterns violently in our lifetimes. [17](https://www.pik-potsdam.de/en/news/latest-news/land-and-ocean-carbon-sinks-weakening-and-other-new-insights-from-climate-science) [18](https://www.weforum.org/organizations/potsdam-institute-for-climate-impact-research-pik/) [19](https://www.pik-potsdam.de/en/news/latest-news/commentary-scientists-outline-rising-planetary-risks-after-missed-decade-of-action) [20](https://www.pik-potsdam.de/en/topics/land-use-food-water-ecosystems/news) [21](https://www.pik-potsdam.de/en/news/latest-news/the-road-back-to-paris-science-based-pathways-to-return-below-1-5degc) [22](https://www.pik-potsdam.de/en/news/latest-news/ranking-the-climate-papers-most-featured-in-online-media) [23](https://www.pik-potsdam.de/en/institute/scientific-networks/friends-of-pik/doc/the_first_10_years.pdf)
+
 ### 4. alternative names I've considered
 
 biome-signal-translator
