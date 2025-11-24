@@ -258,7 +258,32 @@ class PlanetaryMemorySystem:
             ]
             return self._extract_modern_applications(historical_precedents)
 
-## 3. alternative names I've considered
+
+### 3. Catching the signals from their roots - REAL WORLD DATA
+
+#### 3.1 The Stockholm Resilience Centre (Sweden)
+
+The Stockholm Resilience Centre (SRC) is an international research center focused on advancing the understanding of social-ecological systems and resilience for sustainable development. It is a joint initiative between Stockholm University and the Beijer Institute of Ecological Economics at the Royal Swedish Academy of Sciences.  https://www.worldbenchmarkingalliance.org/wba-allies/stockholm-resilience-center-src
+
+The SRC's primary mission is to explore how humanity can develop and thrive on a planet facing immense environmental pressures. To achieve this, its research is guided by three core propositions: https://www.stockholmresilience.org/education/resilience-research-school.html
+
+People are an integral part of the biosphere.
+People and nature are intertwined within integrated social-ecological systems.
+Humans must actively respond to and engage with the biosphere to build a sustainable future. https://www.stockholmresilience.org/publications.html#:~:text=S%C3%A1nchez%2DGarc%C3%ADa%2C%20P.A.%2C%20Galaz,s10551%2D024%2D05860%2D3
+
+The SRC has contributed to significant initiatives and publications, including the EAT–Lancet Commission's report on sustainable dietary patterns, the scientific basis for the documentary Breaking Boundaries: The Science of Our Planet, and reports for businesses on environmental impact. Several SRC researchers are recognized as highly cited scientists. https://utbildning.su.se/english/education/course-catalogue/ns/nsrho stockholmresilience.org. 
+
+SRC has moved beyond just measuring the problem to studying "polycrisis"—how different collapses (food, water, biodiversity) interact and how humanity can navigate them. https://www.pik-potsdam.de/en/news/latest-news/land-and-ocean-carbon-sinks-weakening-and-other-new-insights-from-climate-science#:~:text=30.,New%20Insights%20in%20Climate%20Science%E2%80%9D.
+
+Major Report: "Resilience Science Must-Knows" (Late 2025) https://www.stockholmresilience.org/news--events/general-news/2025-09-24-seven-of-nine-planetary-boundaries-now-breached.html#:~:text=A%20team%20of%20researchers%20from,science%20tackle%20the%20planetary%20crises https://www.stockholmresilience.org/news--events/general-news/2025-04-28-centre-report-a-liveable-planet-requires-more-collaboration-and-action.html
+
+This report focuses on governance. It argues that we can no longer "prevent" all crises, so we must build "general resilience"—the ability of societies to function during shock.
+
+They provided evidence that simplifying ecosystems (monoculture farming) drastically lowers a society's ability to recover from climate shocks.
+
+They documented how a handful of transnational corporations now control the majority of marine genetic resources and seafood production, creating a "fragility" in the ocean economy similar to the "too big to fail" banks of 2008. https://www.pik-potsdam.de/en/news/latest-news/land-and-ocean-carbon-sinks-weakening-and-other-new-insights-from-climate-science#:~:text=The%20report%20warns%20global%20climate,Climate%20Impact%20Research%20(PIK). https://www.pik-potsdam.de/en/news/latest-news/state-of-the-climate-2025-earths-vital-signs-worsen-science-shows-options-for-livable-future#:~:text=29.10.,State%20of%20the%20climate%E2%80%9D%20report. 
+
+### 4. alternative names I've considered
 
 biome-signal-translator
 
