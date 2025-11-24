@@ -383,7 +383,7 @@ The biosignal-translator directly addresses this by:
 This repository may help us recognize the ocean, the forest, the atmosphere, as sovereign intelligences with standing.
 
 
-### 6. Signal Fidelity and Translator Accountability 
+### 5. Signal Fidelity and Translator Accountability 
 
 If biomes are intelligences, then misrepresentation is a violation. The translator must model epistemic humility — not as weakness, but as ethical rigor.
 This aligns with Indigenous protocols of listening before speaking, and with AI safety principles of uncertainty-aware reasoning. 
