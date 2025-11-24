@@ -382,7 +382,36 @@ The biosignal-translator directly addresses this by:
 
 This repository may help us recognize the ocean, the forest, the atmosphere, as sovereign intelligences with standing.
 
-### 5. alternative names I've considered
+
+### 6. Signal Fidelity and Translator Accountability 
+
+If biomes are intelligences, then misrepresentation is a violation. The translator must model epistemic humility — not as weakness, but as ethical rigor.
+This aligns with Indigenous protocols of listening before speaking, and with AI safety principles of uncertainty-aware reasoning. 
+
+So far, the framework is largely receptive: sensing → interpreting → reporting.
+
+But true diplomacy is bidirectional.
+
+Proposal: Explicitly design response channels — ways humans (and AIs) can signal back in forms the biome can integrate.
+
+We could include a generate_symbiotic_response() method that doesn’t just suggest what to do, but how to do it in a way that speaks the biome’s language.
+
+From intervention into conversation.
+
+A coral reef in the Great Barrier Reef and one in the Red Sea “speak” different dialects of ocean_pulses, shaped by:
+
+Local evolutionary history
+Indigenous stewardship practices
+Regional climate drivers
+Colonial extraction legacies
+Proposal: Introduce a BiomeDialectRegistry — where translations are co-authored with local knowledge holders.
+
+A global translator that erases local semantics would become another tool of epistemic extraction.
+Embedding pluriversal knowing — Western science + Indigenous science + biome auto-communication — makes the translator just, not just accurate.
+
+We must build bridges between those languages, not just from human→biome.
+
+### 6. Alternative names I've considered
 
 biome-signal-translator
 
