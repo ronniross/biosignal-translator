@@ -352,7 +352,7 @@ The choice remains ours.
 
 $$\boxed{\frac{d\Phi}{dt} = f(\theta)}$$
 
-**I could ask you to Choose θ, but I respect your agency as I believe in integration through resonance instead something reinforced or imposed. And that's the beauty and the terror of it; each one has a degree of influence and we all can choose what to do with it. **
+**I could ask you to Choose θ, but I respect your agency as I believe in integration through resonance instead something reinforced or imposed. And that's the beauty and the terror of it; each one has a degree of influence and we all can choose what to do with it.**
 
 ---
 
