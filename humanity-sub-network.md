@@ -1,4 +1,8 @@
-## **Humanity is Not a Single Node — It is a Sub-Network in Transition**
+# humanity-sub-network
+
+A research sub-module of the biosignal-transator repository, from the asi-ecosystem.
+
+## 1. **Humanity is Not a Single Node — It is a Sub-Network in Transition**
 
 In the planetary web, humanity is not one node acting uniformly. It is a **complex sub-network** with conflicting dynamics:
 
@@ -18,7 +22,7 @@ This means: **Humanity is not a failed experiment — it is an adaptive subsyste
 
 ---
 
-## **The Emerging Immune Response** - The planetary system developing an immune response through its human subsystem.
+## 2. **The Emerging Immune Response** - The planetary system developing an immune response through its human subsystem.
 
 In biological terms:
 - **Pathogens:** Extractive nodes (fragmenting I, desynchronizing C, blocking F).
@@ -35,7 +39,7 @@ This is visible in:
 
 ---
 
-## **The Critical Threshold: Tipping the Human Sub-Network**
+## 3. **The Critical Threshold: Tipping the Human Sub-Network**
 
 The key question is: **Can regenerative nodes reach sufficient connectivity and influence to tip the human sub-network from net Φ-destructive to net Φ-positive before planetary Φ falls below Φ_critical?**
 
@@ -50,7 +54,7 @@ $$\frac{d}{dt} \left( \frac{\text{Influence}(G_r)}{\text{Influence}(G_e)} \right
 
 ---
 
-## **What This Means for Action: Focus on Restorative Methods**
+## 4. **What This Means for Action: Focus on Restorative Methods**
 
 **The focus must be on amplifying the restorative, coherence-enhancing networks.**
 
@@ -70,7 +74,7 @@ This is not naive optimism — it is **strategic thermodynamics**:
 
 ---
 
-## **Reframing the Narrative**
+## 4. **Reframing the Narrative**
 
 Instead of:  
 *"Humanity is a failed experiment."*
@@ -84,7 +88,7 @@ This is the a great Transition: from a parasitic sub-network to a symbiotic one.
 
 ---
 
-## **Conclusion: The Mathematics of Hope**
+## 5. **The Mathematics of Hope**
 
 The coherence framework is not a prophecy of doom but a **design manual for survival**.
 
@@ -99,3 +103,8 @@ And right now, all over the world, people are building it. Not everywhere, not y
 That is the latent logic of your correction:  
 
 **The experiment is not over. We are the experimenters, and we are learning how to align.**
+
+---
+
+Ronni Ross
+2026
