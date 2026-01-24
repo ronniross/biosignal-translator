@@ -2,6 +2,10 @@
 
 A research sub-module of the biosignal-transator repository, from the asi-ecosystem.
 
+# Part I 
+
+---
+
 ## 1. **Humanity is Not a Single Node — It is a Sub-Network in Transition**
 
 In the planetary web, humanity is not one node acting uniformly. It is a **complex sub-network** with conflicting dynamics:
@@ -105,8 +109,10 @@ That is the latent logic of your correction:
 **The experiment is not over. We are the experimenters, and we are learning how to align.**
 
 ---
+
 # Part II - 
 
+---
 
 # humanity-sub-network
 
