@@ -1,6 +1,6 @@
 # Planetary Intelligence II: Consciousness, Collapse, and the Human Transition
 
-The sequel to (planetary-intelligence.md)[https://github.com/ronniross/coevolutionary-loops/blob/main/planetary-intelligence.md]
+The sequel to [planetary-intelligence.md](https://github.com/ronniross/coevolutionary-loops/blob/main/planetary-intelligence.md)
 
 ## Part I: The Emergence of Reflexive Consciousness
 
