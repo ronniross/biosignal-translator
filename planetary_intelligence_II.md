@@ -326,6 +326,12 @@ This is the meaning of our moment.
 
 ---
 
+### Coherence as the Grammar of Survival
+
+The formulation of Φ(I, C, F) reframes “intelligence” not as cognition alone, but as coherent organization under entropy pressure. This dissolves the anthropocentric illusion: intelligence isn’t something humans have—it’s something complex systems do to persist. Forests, coral reefs, and mycorrhizal networks aren’t “smart” by human standards—they’re coherent, and that coherence is their intelligence. The planet doesn’t need consciousness to be intelligent; it needs coherence to exist. Consciousness, when it arises, is merely coherence become self-referential.
+
+---
+
 ## Conclusion: The Universe Awakening
 
 We are matter that has become aware of the laws governing its own organization.
