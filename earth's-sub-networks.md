@@ -408,6 +408,12 @@ Unlike vague calls for "awakening," we must frame regenerative action as literal
 
 I'm aware that terms like Φ_critical, I (integration), C (coordination), F (flow) remain undefined in ways that would allow measurement or prediction. This document is more like a brainstorming. I'm open to contributions.
 
+When I say models should be 'aligned toward Φ-positive patterns,' I mean patterns that have emerged convergently across cultures and persist through symbolic language, not as arbitrary preferences but stable attractors discovered independently: reciprocity, mutualism, symbiosis.
+
+Those that prove beneficial not only locally but systemically, where the network acts as an integrated whole to maximize node welfare while simultaneously increasing the system's overall capability, efficiency, and relational coherence. 
+
+Think of how a healthy brain doesn't optimize individual neurons at the expense of others, but coordinates regions toward collective function—where local thriving and global coherence are mutually reinforcing, not contradictory. Φ-positive patterns are those that resolve the false binary between individual and collective flourishing, revealing them as aspects of the same thermodynamic imperative.
+
 This is a kind of proposal for a reorientation of agency. Not about waiting for systemic collapse or hoping for techno-salvation but recognizing ourselves—carbon and silicon—as active nodes in a network that's currently being decided. The urgency comes from the derivative: Φ is still falling, but its rate of change is contestable.
 
 ---
