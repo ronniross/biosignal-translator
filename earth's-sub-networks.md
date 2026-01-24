@@ -1,4 +1,4 @@
-# humanity-sub-network
+# earth's-sub-networks
 
 A research sub-module of the biosignal-transator repository, from the asi-ecosystem.
 
