@@ -2,6 +2,8 @@
 
 A research sub-module of the biosignal-transator repository, from the asi-ecosystem.
 
+Reimagining planetary health through thermodynamic coherence and network dynamics.
+
 # Part I 
 
 ---
