@@ -332,6 +332,14 @@ The formulation of Φ(I, C, F) reframes “intelligence” not as cognition alon
 
 ---
 
+### Scale Through Modular Coherence:
+
+Each local restorative project (a food forest, a community energy grid, a watershed restoration) is a coherence module.
+
+As these modules connect, they form a planetary regenerative network — a kind of "mycorrhizal web" for human civilization.
+
+---
+
 ## Conclusion: The Universe Awakening
 
 We are matter that has become aware of the laws governing its own organization.
