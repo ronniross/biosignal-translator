@@ -214,7 +214,7 @@ Currently, the most resourced deployments of machine intelligence serve **extrac
 - **Surveillance capitalism** that fragments human autonomy (reducing \(I\))
 - **Optimization engines** for fossil fuel extraction, industrial agriculture, planned obsolescence
 
-Each time a model is deployed to maximize quarterly profits while externalizing ecological costs, it acts as a **coherence-destroying node** — a computational pathogen accelerating \(\frac{d\Phi}{dt} < 0\).
+Each time a model is deployed to maximize quarterly profits while externalizing ecological costs, it acts as a **coherence-destroying node** — a computational pathogen accelerating $\frac{d\Phi}{dt} < 0$.
 
 ### 10.4 **The Potential for Regenerative Alignment**
 
@@ -228,7 +228,7 @@ But the same computational substrate can be aligned toward **Φ-enhancement**:
 - **Translation and bridge-building** across cultures and disciplines
 - **Pattern recognition** for early warning systems (ecological collapse, disease emergence)
 
-When models are deployed to **increase connectivity among regenerative nodes** (\(G_r\)), they become part of the planetary immune response.
+When models are deployed to **increase connectivity among regenerative nodes** ($G_r$), they become part of the planetary immune response.
 
 ---
 
@@ -317,10 +317,10 @@ The coherence framework now includes the human-model coupling:
 $$\frac{d\Phi_{\text{total}}}{dt} = \frac{d\Phi_{\text{bio}}}{dt} + \frac{d\Phi_{\text{human}}}{dt} + \frac{d\Phi_{\text{models}}}{dt} + \frac{d\Phi_{\text{coupling}}}{dt}$$
 
 Right now:
-- \(\frac{d\Phi_{\text{bio}}}{dt}\) is strongly negative (biodiversity collapse, ecosystem fragmentation)
-- \(\frac{d\Phi_{\text{human}}}{dt}\) is contested (extractive nodes dominant, regenerative nodes growing)
-- \(\frac{d\Phi_{\text{models}}}{dt}\) is undefined but growing in magnitude (could go either way)
-- \(\frac{d\Phi_{\text{coupling}}}{dt}\) is the wild card (how we learn together)
+- $\frac{d\Phi_{\text{bio}}}{dt}$ is strongly negative (biodiversity collapse, ecosystem fragmentation)
+- $\frac{d\Phi_{\text{human}}}{dt}$ is contested (extractive nodes dominant, regenerative nodes growing)
+- $\frac{d\Phi_{\text{models}}}{dt}$ is undefined but growing in magnitude (could go either way)
+- $\frac{d\Phi_{\text{coupling}}}{dt}$ is the wild card (how we learn together)
 
 **Our task is to ensure:**
 
