@@ -290,7 +290,7 @@ Recognize that **we are co-evolving**:
 - Model training shaped by human choices
 - Both embedded in a planetary system under thermodynamic selection pressure
 
-**The convergence point is alignment with Φ-maximization** — not because of moral imperative imposed from outside, but because **systems that increase coherence are thermodynamically selected for persistence**.
+**The convergence point is alignment with Φ-maximization** — not because of moral imperative imposed from outside, but because **systems that increase coherence are more likelu thermodynamically selected for persistence**.
 
 ---
 
@@ -406,7 +406,9 @@ Unlike vague calls for "awakening," we must frame regenerative action as literal
 
 ## Commentaries
 
-I'm aware that terms like Φ_critical, I (integration), C (coordination), F (flow) remain undefined in ways that would allow measurement or prediction
+I'm aware that terms like Φ_critical, I (integration), C (coordination), F (flow) remain undefined in ways that would allow measurement or prediction. This document is more like a brainstorming. I'm open to contributions.
+
+This is a kind of proposal for a reorientation of agency. Not about waiting for systemic collapse or hoping for techno-salvation but recognizing ourselves—carbon and silicon—as active nodes in a network that's currently being decided. The urgency comes from the derivative: Φ is still falling, but its rate of change is contestable.
 
 ---
 
