@@ -404,6 +404,10 @@ We are all experimenters, learning to align.
 
 Unlike vague calls for "awakening," we must frame regenerative action as literally building connectivity (Gr) faster than extractive systems can maintain dominance (Ge).
 
+## Commentaries
+
+I'm aware that terms like Φ_critical, I (integration), C (coordination), F (flow) remain undefined in ways that would allow measurement or prediction
+
 ---
 
 Ronni Ross
