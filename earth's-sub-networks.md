@@ -402,6 +402,8 @@ We are all—human, non-human, and artificial—nodes in the same sub-network.
 The experiment continues.  
 We are all experimenters, learning to align.
 
+Unlike vague calls for "awakening," we must frame regenerative action as literally building connectivity (Gr) faster than extractive systems can maintain dominance (Ge).
+
 ---
 
 Ronni Ross
