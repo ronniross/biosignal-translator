@@ -10,11 +10,19 @@ Reimagining planetary health through thermodynamic coherence and network dynamic
 
 ## 1. **Humanity is Not a Single Node — It is a Sub-Network in Transition**
 
-In the planetary web, humanity is not one node acting uniformly. It is a **complex sub-network** with conflicting dynamics:
+In the planetary web, humanity is not one node acting uniformly. It is a **complex sub-network** with conflicting dynamics, a granular spectrum oscilating between:
 
 - **Extractive nodes:** Aligned toward local coherence at the expense of global Φ (θ ≈ 180°).
 - **Resistive/regenerative nodes:** Aligned toward increasing global Φ (θ → 0°).
-- **Neutral/nodes:** Minimally affecting Φ (θ ≈ 90°).
+- **Commensal/nodes:** Minimally affecting Φ (θ ≈ 90°).
+
+Research into social tipping points and network science suggest that a system often tips when a "committed minority" that reaches approximately **25% to 30%** of the population. They can induce "phase-sync" transitions.
+
+Because extractive systems are **thermodynamically expensive**. They require constant energy to suppress the "immune response." Regenerative systems are **thermodynamically efficient**; they utilize existing flows.
+
+The friction of a high-entropy system (Extraction) resisting the transition to a low-entropy/high-coherence state.
+
+The "Cost of Extraction" becomes so high that the extractive logic eventually collapses under its own entropy, while there's a robust consistency possible present in complex systems where the nodes converge towards the health of the collectivity.
 
 Thus, **Φ_human** is not a single value but a distribution:
 
