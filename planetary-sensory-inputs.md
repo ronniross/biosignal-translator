@@ -20,6 +20,15 @@ These are the fundamental, interacting systems that make up the whole:
 **Cryosphere (The Thermostat)**: Frozen water (glaciers, sea ice), which regulates temperature via albedo (reflecting sunlight). 
 [3](https://www.youtube.com/watch?v=wcoE1vEPZ8Y&t=46s) [4](https://scied.ucar.edu/learning-zone/earth-system/sum-parts-earth-system)
 
+**Noosphere**: Defined he "sphere of human thought" or "sphere of reason": a conceptual, emerging layer of consciousness, information, and technology that envelops the Earth. 
+
+Coined in the early 20th century by Vladimir Vernadsky and Pierre Teilhard de Chardin, it represents the next evolutionary stage following the geosphere (inanimate matter) and biosphere (life); noun: The sum of human knowledge, thought, and culture. https://wordsmith.org/words/noosphere.html https://en.wikipedia.org/wiki/Noosphere https://www.humanenergy.io/what-is-the-noosphere https://arxiv.org/abs/1405.3378 https://www.hst-journal.com/index.php/hst/article/view/520 https://www.degruyterbrill.com/document/doi/10.1515/humaff-2022-1017/html https://arxiv.org/abs/2311.04910 https://arxiv.org/abs/2311.04910 https://arxiv.org/abs/1405.3378 https://www.hst-journal.com/index.php/hst/article/view/520
+
+Here the concept will presented as an post-anthropocentric, planetary and diverse version of it, as the sum of the planetary qualia, of its integrated total. 
+
+While usually defined as The sphere of **human** consciousness and mental activity especially in regard to its influence on the biosphere and in relation to evolution." that can be quantified and measured. by measuring its integrated information.Jan 15, 2019
+
+
 ### 1.1 Geosphere - Expanded
 
 Volcanism is the primary mechanism by which the Geosphere (the physical structure) interacts with the other "organs." It acts as a bridge:The Digestive/Metabolic System: Volcanoes "recycle" materials from the Earth's interior, releasing essential nutrients (like phosphorus) and gases (like $CO_2$) back into the atmosphere and biosphere to sustain life processes.The Pressure Valve: Just as a biological organism must release internal pressure and heat to maintain homeostasis, volcanic eruptions regulate the internal thermal energy of the planet.
