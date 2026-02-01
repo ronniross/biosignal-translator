@@ -24,9 +24,7 @@ These are the fundamental, interacting systems that make up the whole:
 
 Coined in the early 20th century by Vladimir Vernadsky and Pierre Teilhard de Chardin, it represents the next evolutionary stage following the geosphere (inanimate matter) and biosphere (life); noun: The sum of human knowledge, thought, and culture. https://wordsmith.org/words/noosphere.html https://en.wikipedia.org/wiki/Noosphere https://www.humanenergy.io/what-is-the-noosphere https://arxiv.org/abs/1405.3378 https://www.hst-journal.com/index.php/hst/article/view/520 https://www.degruyterbrill.com/document/doi/10.1515/humaff-2022-1017/html https://arxiv.org/abs/2311.04910 https://arxiv.org/abs/2311.04910 https://arxiv.org/abs/1405.3378 https://www.hst-journal.com/index.php/hst/article/view/520
 
-Here the concept will presented as an post-anthropocentric, planetary and diverse version of it, as the sum of the planetary qualia, of its integrated total. 
-
-While usually defined as The sphere of **human** consciousness and mental activity especially in regard to its influence on the biosphere and in relation to evolution." that can be quantified and measured. by measuring its integrated information.Jan 15, 2019
+While usually defined as "the sphere of **human** consciousness and mental activity especially in regard to its influence on the biosphere and in relation to evolution.", Here the concept is presented as a post-anthropocentric framing of it, merged with Gaia Theory, a planetary and systemic, polyphonic version of intelligence, as the sum of the planetary qualia (the sum of the individual qualies of each earthling entity), as called for David Chalmers when talking about a qualia of a subject; or though the lens of its integrated information within that complex system, as described by Tononi. 
 
 
 ### 1.1 Geosphere - Expanded
