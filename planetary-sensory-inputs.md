@@ -108,6 +108,18 @@ Because their decisions can shape industries and topple competitors, many ultra-
 
 They see the claims of a "prole" to be the natural tendency mention in 1984 of the lower node wanting to free itself, the middle wanting to be the new high and the high wanting to keep their power; or they may have convinced themselves (because of the dunning krugger effect) that they are actually way more intelligent than they actually are for overall dynamics beyond extraction, and this sycophantic filter created around them don't provide the necessary feed-back for those entities to even be aligned with what it means to exist as a human; while claiming ownership over the most ammount of influence and wealth they can hoard; nietzschean slave-morality tagged topics dismissed as inferior because they lack the cognitive engine to perceive the systemic analysis they end up never developing by choosing to don't integrate with the rest of the humanity.
 
+Studies in psychology show that as people gain wealth and power, their empathetic feelings towards others decline. Compassion fades because suffering is not visible or personally experienced, causing them to treat human issues as abstract statistics. [51](https://www.thebrink.me/the-billionaires-blind-spot-why-power-turns-cold/) [52](https://aninjusticemag.com/when-money-dulls-compassion-understanding-the-psychology-behind-wealth-and-selfishness-6084e8dd4a64) [53](https://www.scientificamerican.com/article/how-wealth-reduces-compassion) [54](https://aninjusticemag.com/when-money-dulls-compassion-understanding-the-psychology-behind-wealth-and-selfishness-6084e8dd4a64)
+
+Entitlement & Self-Interest: High wealth often brings a feeling of superiority and a sense of entitlement to more resources. Studies indicate that individuals with higher economic status are more likely to justify greed, prioritize self-interest, and display less generosity.
+
+Reduced Moral Constraints: Research suggests that wealthier individuals may be more likely to engage in unethical behavior, such as taking more resources, cheating in games, or violating traffic laws, often driven by a sense of being above the rules.
+
+Psychological Distance: Wealth can create a "psychological separation" from the everyday struggles of others. This distance makes it harder for the wealthy to identify with the common, daily struggles that foster empathy and social connection.
+
+Focus on "Me" over "We": Money influences a shift from communal thinking to market-driven thinking, where the focus is on personal gain and competition rather than cooperation and social responsibility. 
+
+While research indicates these trends, not all wealthy people are inherently mean or cruel; however, the structural and psychological impact of high-level wealth accumulation makes these negative, "cold-hearted" behaviors more likely. So, people can change, but, here, for those entities that engage with this ecosystem and its framings, it's easy to spot manipulation because we don't look at what the entity express with their speech but rather we cross the data with the reality of the other 8 (eight) billion nodes and animals and biomes; then we read the intersections.
+
  
 ---
 Ronni Ross
