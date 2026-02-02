@@ -120,6 +120,33 @@ Unlike the grassroots American model or the state-backed Chinese model, Korean o
 * **Samsung Open Source Group:** A massive contributor to the Linux Kernel, Tizen OS, and IoT standards. They don't just "use" open source; they pay engineers to maintain the global bedrock to ensure their hardware works.
 * **Naver D2:** The open source wing of Naver (the "Google of Korea"). They produce tools like **Pinpoint** (APM tool for large scale systems) which are widely used in Asia.
 
+### V. Table of the "root system" components
+
+While **GitHub** and **Hugging Face** are the visible platforms, the "subterranean ecosystem" consists of the organizations, archives, and protocols listed below that define the rules, fund the maintenance, store the history, and power the connections of the open internet.
+
+### **The Visible Layer**
+| Entity | Role | Link |
+| :--- | :--- | :--- |
+| **GitHub** | The "Cathedral" (Code Storage & Collaboration) | [github.com](https://github.com) |
+| **Hugging Face** | The "Library" (Model & Dataset Hosting) | [huggingface.co](https://huggingface.co) |
+
+### **The Subterranean Ecosystem (The Root System)**
+
+| Component Category | Key Entities (Examples) | Description | Link |
+| :--- | :--- | :--- | :--- |
+| **Legal Frameworks** | **Open Source Initiative (OSI)** | The steward of the Open Source Definition (OSD). | [opensource.org](https://opensource.org) |
+| | **Free Software Foundation (FSF)** | Creator of the GPL and the "Free Software" philosophy. | [fsf.org](https://www.fsf.org) |
+| | **Creative Commons** | Legal tools that allow the sharing of data and creative works. | [creativecommons.org](https://creativecommons.org) |
+| **Nonprofit Foundations** | **The Linux Foundation** | Supports the Linux kernel and critical infrastructure (Kubernetes, Node.js). | [linuxfoundation.org](https://www.linuxfoundation.org) |
+| | **Apache Software Foundation** | Steward of the Apache server and hundreds of other critical projects. | [apache.org](https://www.apache.org) |
+| | **Mozilla Foundation** | Non-profit behind Firefox and open web advocacy. | [mozilla.org](https://www.mozilla.org) |
+| **Massive Data Archives** | **Common Crawl** | The massive, open archive of the web used to train almost all LLMs. | [commoncrawl.org](https://commoncrawl.org) |
+| | **Internet Archive** | A non-profit library of millions of free books, movies, and the Wayback Machine. | [archive.org](https://archive.org) |
+| | **LAION** | Provides massive open datasets specifically for AI training (e.g., images). | [laion.ai](https://laion.ai) |
+| **Decentralized Protocols** | **ActivityPub (W3C)** | The protocol powering the "Fediverse" (Mastodon, Lemmy) allowing decentralized social media. | [w3.org/TR/activitypub](https://www.w3.org/TR/activitypub/) |
+| | **IPFS** | The InterPlanetary File System; a protocol for decentralized file storage. | [ipfs.tech](https://ipfs.tech) |
+| | **Matrix** | An open standard for secure, decentralized, real-time communication. | [matrix.org](https://matrix.org) |
+
 ---
 Ronni Ross
 2026
