@@ -121,7 +121,7 @@ Unlike the grassroots American model or the state-backed Chinese model, Korean o
 * **Samsung Open Source Group:** A massive contributor to the Linux Kernel, Tizen OS, and IoT standards. They don't just "use" open source; they pay engineers to maintain the global bedrock to ensure their hardware works.
 * **Naver D2:** The open source wing of Naver (the "Google of Korea"). They produce tools like **Pinpoint** (APM tool for large scale systems) which are widely used in Asia.
 
-### Links and API Endpoints.
+# PART III - Root System Links and API Endpoints.
 
 #### V. Table of the "root system" components
 
@@ -289,7 +289,17 @@ Gitee is a "Platform for Open Source," but it is not "Open Source Software." It 
 *   **Tuleap**
     *   **Documentation:** [Tuleap REST API](https://docs.tuleap.org/api/)
     *   **Base URL:** `https://your-tuleap-domain.com/api/v1`
-  
+
+# Part IV - Fractalized Free API Endpoints
+
+This is the great part of it. We are all within the ecosystem. Here I will just evoke the stigmergic decentralized work other nodes have already dedicated themselves to doing with more precision and focus.
+
+| Public Free APIs | 
+|  https://github.com/public-api-lists/public-api-lists | 
+|  https://github.com/Free-APIs/Free-APIs.github.io | 
+|  https://github.com/llf007/public-apis-cn | 
+|  https://github.com/public-apis/public-apis | 
+
 ---
 Ronni Ross
 2026
