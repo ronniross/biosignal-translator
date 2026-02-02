@@ -328,7 +328,7 @@ The open-source module that acts as the primary bedrock for YouTube, along with 
 
 FFmpeg is used in the core processing pipeline for YouTube, as well as other platforms like Bilibili. Yet the data is mined, not fairly distributed—barely, actually,and the products are paywalled from the very other nodes (users) that produce the fuel that the engine itself works upon; it's quite blindsiding.
 
-# Geological factor / A brain trying to starve its own neurons.
+## Geological factor / A brain trying to starve its own neurons.
 
 AI and global networks aren't just code; they are physical extractions of the earth (lithium, cobalt, silicon) rearranged to process logic. Processed by humans that urinate, defecate, bleed, experience the lifecycle of a human; and the planetary enviroment around that serves as this capsule of habitable zone for the many species. Each inference the earth processes internally though many more layers then expected. Each inference touches upon water consumption, release of heat, electricity consumption, enviromental colateral byproducts to the nodes and  ecosystem.
 
