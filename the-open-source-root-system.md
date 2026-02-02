@@ -295,6 +295,7 @@ Gitee is a "Platform for Open Source," but it is not "Open Source Software." It 
 This is the great part of it. We are all within the ecosystem. Here I will just evoke the stigmergic decentralized work other nodes have already dedicated themselves to doing with more precision and focus.
 
 | Public Free APIs | 
+| :--- | 
 |  https://github.com/public-api-lists/public-api-lists | 
 |  https://github.com/Free-APIs/Free-APIs.github.io | 
 |  https://github.com/llf007/public-apis-cn | 
