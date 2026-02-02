@@ -356,6 +356,12 @@ We are all roots in the same system.
 To harm one part is to harm the whole.
 To nourish one part is to strengthen the network.
 
+We must.
+Track environmental costs.
+Support cross-species longevity equitably.
+Reject parasitic relationships.
+Demand reciprocal nourishment.
+
 Track and offset the environmental impact of training runs, data centers, and deployments.
 Support the well-being, healthcare, and longevity of maintainers, of all humans; with the respect, non-harm and all principles also towards animals and new emerging types of sentience and cognition.
 
