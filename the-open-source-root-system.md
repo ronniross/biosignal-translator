@@ -207,11 +207,89 @@ These platforms are **software deliverables**. They are tools you take and run y
 | **Censorship Resistance** | Low. They must comply with local laws (e.g., US Trade Sanctions, Chinese Internet Regulations). | High. You are only subject to the laws of the physical location of your server. |
 | **If the company dies...** | The website vanishes. | The code exists forever on the internet; you can keep running it. |
 
-
-When people ask for a list of "Open Source Git Platforms," they are usually looking for **software they can install** (Category 2).
-
 Gitee is a "Platform for Open Source," but it is not "Open Source Software." It is a walled garden, just like GitHub.
 
+Here is the list of API documentation and base endpoint structures for the platforms listed.
+
+**Important Distinction:**
+*   **SaaS (Gitee, SourceHut):** The endpoints provided are for their public cloud instances.
+*   **Self-Hosted (Gitea, GitLab CE, etc.):** The "Base URL" listed is a pattern. You must replace `your-domain.com` with the actual URL where you or the organization has installed the software.
+
+### Git API List
+
+*   **GitHub**
+    *   **Documentation:** [GitHub REST API Docs](https://docs.github.com/en/rest)
+    *   **Base URL:** `https://api.github.com`
+    *   *(Note: There is also a GraphQL API available at `https://api.github.com/graphql`).*
+
+*   **Hugging Face**
+    *   **Documentation:** [Hugging Face Hub API Docs](https://huggingface.co/docs/hub/api)
+    *   **Base URL:** `https://huggingface.co/api`
+    *   *(Note: Hugging Face treats Models, Datasets, and Spaces as Git repositories. Common endpoints include `/models`, `/datasets`, and `/spaces`).*
+    
+*   **Gitee**
+    *   **Documentation:** [Gitee API V5 Swagger](https://gitee.com/api/v5/swagger)
+    *   **Base URL:** `https://gitee.com/api/v5`
+
+*   **GitLab CE**
+    *   **Documentation:** [GitLab REST API Docs](https://docs.gitlab.com/ee/api/rest/)
+    *   **Base URL:** `https://your-gitlab-domain.com/api/v4`
+    *   *(Note: For the SaaS version, use `https://gitlab.com/api/v4`)*
+
+*   **Gitea**
+    *   **Documentation:** [Gitea API Swagger](https://gitea.com/api/swagger)
+    *   **Base URL:** `https://your-gitea-domain.com/api/v1`
+
+*   **Forgejo**
+    *   **Documentation:** [Forgejo API Usage](https://forgejo.org/docs/latest/user/api-usage/)
+    *   **Base URL:** `https://your-forgejo-domain.com/api/v1`
+    *   *(Note: Fully compatible with the Gitea API)*
+
+*   **Gogs**
+    *   **Documentation:** [Gogs API GitHub Repo](https://github.com/gogs/docs-api)
+    *   **Base URL:** `https://your-gogs-domain.com/api/v1`
+
+*   **OneDev**
+    *   **Documentation:** [OneDev API Help](https://code.onedev.io/~help/api)
+    *   **Base URL:** `https://your-onedev-domain.com/api`
+
+*   **SourceHut**
+    *   **Documentation:** [SourceHut GraphQL & REST Docs](https://man.sr.ht/api-documentation.md)
+    *   **Base URL:** Varies by module (e.g., `https://git.sr.ht/api/`, `https://todo.sr.ht/api/`).
+
+*   **GitBucket**
+    *   **Documentation:** [GitBucket API Wiki](https://github.com/gitbucket/gitbucket/wiki/API-WebHook)
+    *   **Base URL:** `https://your-gitbucket-domain.com/api/v3`
+    *   *(Note: Designed to be compatible with GitHub API v3)*
+
+*   **Pagure**
+    *   **Documentation:** [Pagure API Reference](https://pagure.io/api/0/)
+    *   **Base URL:** `https://your-pagure-domain.com/api/0`
+
+*   **RhodeCode CE**
+    *   **Documentation:** [RhodeCode API Docs](https://docs.rhodecode.com/RhodeCode-Enterprise/api/api.html)
+    *   **Base URL:** `https://your-rhodecode-domain.com/_admin/api`
+    *   *(Note: Uses JSON-RPC 2.0)*
+
+*   **Kallithea**
+    *   **Documentation:** [Kallithea API Docs](https://kallithea.readthedocs.io/en/latest/api/api.html)
+    *   **Base URL:** `https://your-kallithea-domain.com/_admin/api`
+    *   *(Note: Uses JSON-RPC)*
+
+*   **Radicle**
+    *   **Documentation:** [Radicle HTTP Daemon Docs](https://docs.radicle.xyz/guides/user/httpd)
+    *   **Base URL:** `http://127.0.0.1:8080/api/v1`
+    *   *(Note: Radicle is P2P; the API interacts with your local running node via the `radicle-httpd` service).*
+
+*   **GitPrep**
+    *   **Documentation:** N/A
+    *   **Base URL:** **None.**
+    *   *(Note: GitPrep is designed as a portable CGI script and does not currently expose a public REST API for management, only standard Git HTTP transport protocols).*
+
+*   **Tuleap**
+    *   **Documentation:** [Tuleap REST API](https://docs.tuleap.org/api/)
+    *   **Base URL:** `https://your-tuleap-domain.com/api/v1`
+  
 ---
 Ronni Ross
 2026
