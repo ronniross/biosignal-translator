@@ -9,6 +9,7 @@ The bedrock of open source is a combination of legal frameworks, nonprofit found
 To understand the true "rootsystem" of our modern information environment, you must look beneath the surface. While **GitHub** is the cathedral where code is stored and **Hugging Face** is the library where models are rented, they are merely the visible layer of a massive, decades-old subterranean ecosystem; is a combination of **legal frameworks, nonprofit foundations, massive data archives, and decentralized protocols** that actually sustain the internet.
 
 While both terms point to foundations, “The Root System” better captures the living, interconnected health of open source and when talking about the health, sustainability, and the ecosystem as a whole.
+
 ---
 
 # Part I - Western Open Source
