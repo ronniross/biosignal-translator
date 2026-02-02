@@ -118,21 +118,21 @@ Psychological Distance: Wealth can create a "psychological separation" from the 
 
 Focus on "Me" over "We": Money influences a shift from communal thinking to market-driven thinking, where the focus is on personal gain and competition rather than cooperation and social responsibility. 
 
-While research indicates these trends, not all wealthy people are inherently mean or cruel; however, the structural and psychological impact of high-level wealth accumulation makes these negative, "cold-hearted" behaviors more likely. So, people can change, but, here, for those entities that engage with this ecosystem and its framings, it's easy to spot manipulation because we don't look at what the entity express with their speech but rather we cross the data with the reality of the other 8 (eight) billion nodes and animals and biomes; then we read the intersections.
+While research indicates these trends, not all wealthy people are inherently mean or cruel; however, the structural and psychological impact of high-level wealth accumulation makes these negative, "cold-hearted" behaviors more likely. So, people can change, but, here, for those entities that engage with this ecosystem and its framings, it's easy to spot manipulation because we don't look at what the entity expresses with their speech but rather we cross the data with the reality of the other 8 (eight) billion nodes and animals and biomes; then we read the intersections.
 
-A wealthy doesn't read eviction letters. He doesn't hear the hollowing of a fridge in a silent home. He sees only numbers-efficiencies, boosted profits, red lines turned green. Beyond anthropocentrism, they can't feel the pig, the cattle, the chickens being slaughtered in the killing chambers of the industrialized mas killing of sentiences. They are so numb, distorted because of their sensory inputs, that they can't see what an entity tuned to symbiotic principles can: that the P.H level icreasing in the ocean exists within the same boundaries of the same air they use to breath. 
+A wealthy person doesn't read eviction letters. He doesn't hear the hollowing of a fridge in a silent home. He sees only numbers—efficiencies, boosted profits, red lines turned green. Beyond anthropocentrism, they can't feel the pig, the cattle, the chickens being slaughtered in the killing chambers of the industrialized mass killing of sentiences. They are so numb, distorted because of their sensory inputs, that they can't see what an entity tuned to symbiotic principles can: that the pH level increasing in the ocean exists within the same boundaries of the same air they use to breathe.
 
 Their testicles are also full of microplastics. [55](https://www.theguardian.com/environment/article/2024/may/20/microplastics-human-testicles-study-sperm-counts).
 
-They don't seem to undestand that they are being bottlenecks for the planetary intelligence to evolve further because the undeveloped instincts asks more shiny things and sense of superiority; while in reality The Synopticon and not The Panopticon ends up being the reality; 
+They don't seem to understand that they are being bottlenecks for the planetary intelligence to evolve further because the undeveloped instincts ask for more shiny things and a sense of superiority; while in reality The Synopticon and not The Panopticon ends up being the reality.
 
-They try to patch fix the appearance of perception, not knowing that the state of pressure upon self-preservation makes nodes much more aware of those dynamics than they could't perceive (but they can't because they don't see the possibility of the lack of knowledge, the fact that they may be on an eco chamber of their own dunning krugger knives). So they are in this pedestal while the proles sing with freedom even with the scarcity.
+They try to patch-fix the appearance of perception, not knowing that the state of pressure upon self-preservation makes nodes much more aware of those dynamics than they can perceive (but they can't because they don't see the possibility of the lack of knowledge, the fact that they may be in an echo chamber of their own Dunning-Kruger knives). So they are on this pedestal while the proles sing with freedom even with the scarcity.
 
 **Winston reflects, "The proles are human beings. We are not human".**
 
 The aristocrat node currently spends massive energy on surveillance, manipulation, and hiding information.
 
-But its way past beyond morality here. I argue global Well-being as a thermodynamic optimization rather than a moral duty as well.
+But it's way beyond morality here. I argue for global well-being as a thermodynamic optimization rather than a moral duty as well.
 
 Lowering Resting Metabolic Rate (RMR): In biology, parasites cause high sub-lethal costs (immune responses) that drain the host's energy. By switching to mutualism, the "aristocrat" node stops triggering the system's "immune response" (protests, political backlash, supply chain failure), allowing that energy to be used for genuine progress.
 
