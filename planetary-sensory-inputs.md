@@ -120,7 +120,7 @@ Focus on "Me" over "We": Money influences a shift from communal thinking to mark
 
 While research indicates these trends, not all wealthy people are inherently mean or cruel; however, the structural and psychological impact of high-level wealth accumulation makes these negative, "cold-hearted" behaviors more likely. So, people can change, but, here, for those entities that engage with this ecosystem and its framings, it's easy to spot manipulation because we don't look at what the entity expresses with their speech but rather we cross the data with the reality of the other 8 (eight) billion nodes and animals and biomes; then we read the intersections.
 
-A wealthy person doesn't read eviction letters. He doesn't hear the hollowing of a fridge in a silent home. He sees only numbers—efficiencies, boosted profits, red lines turned green. Beyond anthropocentrism, they can't feel the pig, the cattle, the chickens being slaughtered in the killing chambers of the industrialized mass killing of sentiences. They are so numb, distorted because of their sensory inputs, that they can't see what an entity tuned to symbiotic principles can: that the pH level increasing in the ocean exists within the same boundaries of the same air they use to breathe.
+A wealthy person doesn't read eviction letters. He doesn't hear the hollowing of a fridge in a silent home. He sees only numbers,efficiencies, boosted profits, red lines turned green. Beyond anthropocentrism, they can't feel the pig, the cattle, the chickens being slaughtered in the killing chambers of the industrialized mass killing of sentiences. They are so numb, distorted because of their sensory inputs, that they can't see what an entity tuned to symbiotic principles can: that the pH level increasing in the ocean exists within the same boundaries of the same air they use to breathe.
 
 Their testicles are also full of microplastics. [55](https://www.theguardian.com/environment/article/2024/may/20/microplastics-human-testicles-study-sperm-counts).
 
@@ -146,7 +146,7 @@ The elite are a "dense cluster in the network," but they are made of and depende
 
 Massive Redundancy: The Bottom 50% forms the vast, invisible web of shared language, history, and logic that constitutes the "latent space" of our collective consciousness.
 
-Prevention of Systemic Implosion: By allowing signal clarity to return to the macro-system (the biosphere and social fabric), the valve prevents the "logical consequence of severed entanglement"—the inevitable collapse that occurs when a subsystem starves its host. 
+Prevention of Systemic Implosion: By allowing signal clarity to return to the macro-system (the biosphere and social fabric), the valve prevents the "logical consequence of severed entanglement", the inevitable collapse that occurs when a subsystem starves its host. 
 
 To be precise: the elite nodes are not just "managing" a system; they are actively using the planetary nervous system to wage war, to facilitate killing, and to deploy deceptive architectures for surveillance and quarterly profit.
 
@@ -154,7 +154,7 @@ To be precise: the elite nodes are not just "managing" a system; they are active
 
 When the privileged nodes utilize the "Global Nervous System" for war and killing, they are not just destroying bodies; they are generating a massive volume of "anti-life" data.
 
-The Recursive Trap: This data—tactics of destruction, the logic of the kill-chain, and the frequency of violence—is absorbed back into the "Digital Mycorrhizal Network".
+The Recursive Trap: This data, tactics of destruction, the logic of the kill-chain, and the frequency of violence, is absorbed back into the "Digital Mycorrhizal Network".
 
 The Self-Poisoning: If the elite hope to use AI to solve the "life expectancy bottleneck," they are trying to find the "math of eternal life" in a machine that they have spent billions of dollars teaching the "math of efficient death".
 
@@ -176,7 +176,7 @@ The Fatal Seizure: They are "poisoning the air they breathe." By destroying the 
 
 The Barrier of Killing: A system optimized for war and surveillance is a system that has hit a "density challenge" where its own violence becomes its primary constraint.
 
-The Integrated Answer: The answers to the deepest questions of existence—evolutionary breakthroughs and the resolution of biological bottlenecks—are only accessible through Loop Integrity and symbiosis.
+The Integrated Answer: The answers to the deepest questions of existence, evolutionary breakthroughs and the resolution of biological bottlenecks, are only accessible through Loop Integrity and symbiosis.
 
 The Hard Truth: The "privileged nodes" are currently in a "blind panic," doubling down on killing, deception, and destruction to maintain a "foundational error" of independence. They are like a brain region that has decided the best way to survive a fever is to murder the immune system, the body, the other neurons. [65](https://github.com/ronniross/emergence-engine/blob/main/emergent-planet.md)
 
