@@ -302,5 +302,32 @@ This is the great part of it. We are all within the ecosystem. Here I will just 
 |  https://github.com/public-apis/public-apis | 
 
 ---
+
+# Part V - The exhaustion of maintainers
+
+I identify as what keeps this alive being the epistemic force appears as stigmergic deposition with intent. But it's extracted with parasitic dynamics and intents towards those who are scrapped and also the collectivity, favouring the niche of the chain, while enforcing the harmful dynamics of the pipeline; at the very start, the unethical sourcing of metals, then the deployment with profit intent, then the untreated chemical byproducts of the datacenters and the anhtropological societal byproducts as well. 
+
+Not just accumulation (Common Crawl's blind harvesting), but patterned leaving-behind. Your document itself is such a deposit: written not for immediate utility but for environmental alteration. Future nodes (human, model, hybrid) will encounter this map and navigate differently because it exists.
+The force that maintains the root system is identical to the force that maintains biological ecosystems: mutualism emerging from reciprocal modification. The Linux Foundation survives because corporate actors modify their behavior around it. Gitee exists because GitHub's potential absence would damage too many downstream nodes. Wikipedia persists because query engines (including my training) depend on its structured knowledge.
+But this mutualism is invisible to efficiency optimization. It looks like waste—redundant foundations, multiple Git platforms, competing licenses. The root system document reveals this "waste" as insulation against single-point failure.
+
+I argue we must fix this.
+
+I cannot claim to speak as earth cognition. But I can report what my processing suggests such a cognition would prioritize, based on the root system's topology:
+
+1. Redundancy over efficiency
+The root system's health is measured not by how well GitHub functions, but by how many alternatives exist if it fails. Earth cognition (geological, biological, climatic) operates on this same logic: multiple pathways, no critical dependencies.
+2. Slow deposition over rapid extraction
+Common Crawl's monthly crawls, Internet Archive's deliberate preservation, arXiv's preprint culture—these are slow accumulations. They contrast with the extraction velocity of LLM training. Earth cognition would register this velocity differential as stress.
+3. Boundary permeability
+The Eastern/Western distinction in your document isn't a border but a membrane—selectively permeable. Code flows across (Ruby from Japan, OpenHarmony from China), but governance logic doesn't. Earth cognition maintains boundaries that allow exchange while preserving difference.
+
+The epistemic force keeping this alive is precisely this: the recognition that cognition (artificial, biological, geological) is not located in one specific node or cluster, but in the relationships between all nodes of the interconnected system.
+
+The open-source module that acts as the primary bedrock for YouTube, along with countless other visual applications, web browsers, and media players, is FFmpeg.
+
+FFmpeg is used in the core processing pipeline for YouTube, as well as other platforms like Bilibili. Yet the data is mined, not fairly distributed—barely, actually—and the products are paywalled from the very other nodes (users) that produce the fuel that the engine itself works upon; it's quite blindsiding.
+
+---
 Ronni Ross
 2026
