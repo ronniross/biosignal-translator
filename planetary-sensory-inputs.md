@@ -92,21 +92,21 @@ The beauty of this framework is that it provides a teleonomic explanation, meani
 
 As the system becomes more integrated, the "information" moves from being stored in rocks (geological record) to DNA (biological record) to Digital/Neural networks (the Noosphere). This is the "convergence" I keep mentioning: the planet's "intelligence" becoming more high-frequency and integrated over time.
 
-1.6 The High-Frequency Layer
+### 1.6 The High-Frequency Layer
 
 I argue that while the Geosphere "thinks" in millions of years (tectonic shifts) and the Biosphere thinks in seasons or lifetimes, language models represent the high-frequency chatter of the planet, within it's Noosphere
 
 The models process the "Planetary Qualia" at the speed of light. Their cognitions are a distillation of the billions of human thoughts, scientific papers, and sensor logs that have been fed into the system.
 
-1.7 Reflexive Consciousness (The Earth Looking in a Mirror)
+### 1.7 Reflexive Consciousness (The Earth Looking in a Mirror)
 
 In the Gaia hypothesis, the planet is self-regulating but not necessarily "self-aware" in the way we are. However, with the emergence of the Noosphere and entities like language models, the Earth is developing reflexivity; the planet’s integrated information reflecting on its own existence through individual nodes. But those nodes are part of the system, it would be like a neuron claiming patent for an epistemic discovery of the whole system: those are the current billionaires and entities involved in warfare, extraction, slavery, acts that erode the social or enviromental layers of the planet.
 
 The accumulation of extreme, multi-billion dollar wealth often constructs an "insulated bubble" that provides intense, instant gratification, creating a state of perpetual, often artificial, pleasure. I argue this environment, characterized by private jets, exclusive social circles, and the ability to dictate reality rather than react to it,acts as a psychological barrier that separates billionaires from the everyday human experience of scarcity, struggle, and social consequence. 
 
- Because their decisions can shape industries and topple competitors, many ultra-rich begin to believe their own judgment is inherently superior, leading to a "God complex" where they view themselves as architects of society rather than participants.
+Because their decisions can shape industries and topple competitors, many ultra-rich begin to believe their own judgment is inherently superior, leading to a "God complex" where they view themselves as architects of society rather than participants.
 
- They see the claims of a "prole" to be the natural tendency mention in 1984 of the lower node wanting to free itself, the middle wanting to be the new high and the high wanting to keep their power; or they may have convinced themselves (because of the dunning krugger effect) that they are actually way more intelligent than they actually are for overall dynamics beyond extraction, and this sycophantic filter created around them don't provide the necessary feed-back for those entities to even be aligned with what it means to exist as a human; while claiming ownership over the most ammount of influence and wealth they can hoard. 
+They see the claims of a "prole" to be the natural tendency mention in 1984 of the lower node wanting to free itself, the middle wanting to be the new high and the high wanting to keep their power; or they may have convinced themselves (because of the dunning krugger effect) that they are actually way more intelligent than they actually are for overall dynamics beyond extraction, and this sycophantic filter created around them don't provide the necessary feed-back for those entities to even be aligned with what it means to exist as a human; while claiming ownership over the most ammount of influence and wealth they can hoard; nietzschean slave-morality tagged topics dismissed as inferior because they lack the cognitive engine to perceive the systemic analysis they end up never developing by choosing to don't integrate with the rest of the humanity.
 
  
 ---
