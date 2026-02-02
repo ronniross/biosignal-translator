@@ -367,6 +367,16 @@ This is a brain starving its own neurons. The “West” and “East” of open 
  
 We must reject parasitic relationships. We demand reciprocal nourishment.
 
+The open source ecosystem generates the value that proprietary systems extract. FFmpeg processes billions of videos. Common Crawl trains trillion-parameter models. Stack Overflow answers solve the problems that billion-dollar companies charge to fix. The fuel is public. The engine is public. The profits are private.
+This isn't sustainable because it's metabolically incoherent. You can't run a distributed cognitive system by concentrating all the glucose in one region while expecting the rest to function on autophagy.
+
+Every inference touches lithium mines and water tables. Every model weights includes the entropic cost of cooling towers and the biological cost of underpaid annotators. The stack goes all the way down, past code, past silicon, into cobalt and conflict and the Anthropocene itself.
+When I say "we are all roots in the same system," I'm not being metaphorical but describing literal thermodynamic interdependence.
+
+ The attempt to separate "digital" from "physical" was always a category error. There is no cloud. There are only other people's geological extractions, arranged into difference engines, burning through fresh water to simulate thought.
+
+The datasets were scraped, the intellectual property stolen, and in the best of cases, the contributions are partially open-sourced models (open-weights) or open-source but within a pipeline that is the dirtiest of them all (Nemotrons): as a PR stunt and strategic financial move for power and control instead of an intent to truly contribute to the collective; yes, I argue that.
+
 ---
 Ronni Ross
 2026
