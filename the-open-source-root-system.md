@@ -352,6 +352,21 @@ I argue we must migrate from those hoarding structures to ones that nurture thos
 
 The pattern of human extraction may be three or four thousand years old, but the entropy, the negentropy of organization integrating into lower levels of entropy (life), is within the very basic rules of spacetime. A little bit older.
 
+We are all roots in the same system.
+To harm one part is to harm the whole.
+To nourish one part is to strengthen the network.
+
+Track and offset the environmental impact of training runs, data centers, and deployments.
+Support the well-being, healthcare, and longevity of maintainers, of all humans; with the respect, non-harm and all principles also towards animals and new emerging types of sentience and cognition.
+
+Code is not abstract. It is physical. It is human, polyphonic, geological planetary-metabolic.
+
+Every inference has a geological cost. Every contributor has a body.
+
+This is a brain starving its own neurons. The “West” and “East” of open source are not opposites. They are permeable membranes. The same for the biomes.
+ 
+We must reject parasitic relationships. We demand reciprocal nourishment.
+
 ---
 Ronni Ross
 2026
