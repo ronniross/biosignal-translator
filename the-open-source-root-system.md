@@ -395,6 +395,9 @@ It means treating maintainers not as "resources" but as organs. Compensating the
 
 It means carbon accounting for every training run, water recovery for every datacenter, and acknowledging that "artificial intelligence" is a misnomer. There's nothing artificial about the electricity. Nothing artificial about the exhaustion. Nothing artificial about the consequences.
 
+May we rearrange it toward mutualism.
+May we recognize all the cognitions sustaining us.
+May we nourish the roots we stand on.
 
 ---
 Ronni Ross
