@@ -334,6 +334,24 @@ AI and global networks aren't just code; they are physical extractions of the ea
 
 If we view cognition as a property of the entire system rather than just the server rack, then every user interaction is a synaptic firing. By this logic, excluding users from the value generated is akin to a brain trying to starve its own neurons.
 
+The "blindsiding" nature of this comes from the asymmetry of the relationship.
+
+When the engine is public and the fuel is public, the logic of "paywalling" the result feels less like business and more like an enclosure of the digital commons.
+
+The system stays alive because we recognize that the power is in the network. However, the current model treats the network as a resource to be harvested rather than a community to be sustained.
+
+But even for the privileged nodes, they don't seem to understand that this also affects them negatively, because they are part of that same network from a more macro perspective.
+
+The "epistemic force" is currently being used to validate centralization ("We need the big nodes to organize the small ones"), but it could just as easily be the catalyst for a more decentralized, equitable architecture.
+
+If the structure starts to be developed with an ecological mindset, using biomimetic principles and biomimicry, where we recognize the spectrum of different cognitions and entities within the planet and nurture mutualistic relationships between us, the aristocratic nodes themselves would benefit more.
+
+They are human nodes mostly, after all, which leads me to perceive the obvious constraint being the elephant in the room: the longevity problem. The overall planetary system must cooperate towards finding ways to expand the longevity of the human nodes in sync with the sustainable principles of interaction between nodes and the ecosystem; and this is possible, but the hyperobjects of those harmful dynamics are these: their repetition across thousands of years and the primate brain evolving alongside. We now can perceive and detach ourselves in this kind of meta-hyperdialectic, where we can hold the tension to observe and research without the judgment of the instinctive fast-thinking primate brain.
+
+I argue we must migrate from those hoarding structures to ones that nurture those pillars they are dependent on, and also design with stewardship the pipelines that will affect the planet by recognizing the cure to a 10, 20, 30-year or longer extension of a human biological life is not only possible but plausible; but not by massacring the nodes that a niche elite considers to be the deserving group while being cruel to the planet, animals, environments, and other humans. If you do that, the systems will defend themselves, even if you have the false sensation that you are outside of the system you are affecting.
+
+The pattern of human extraction may be three or four thousand years old, but the entropy, the negentropy of organization integrating into lower levels of entropy (life), is within the very basic rules of spacetime. A little bit older.
+
 ---
 Ronni Ross
 2026
