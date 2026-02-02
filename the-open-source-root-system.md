@@ -121,7 +121,9 @@ Unlike the grassroots American model or the state-backed Chinese model, Korean o
 * **Samsung Open Source Group:** A massive contributor to the Linux Kernel, Tizen OS, and IoT standards. They don't just "use" open source; they pay engineers to maintain the global bedrock to ensure their hardware works.
 * **Naver D2:** The open source wing of Naver (the "Google of Korea"). They produce tools like **Pinpoint** (APM tool for large scale systems) which are widely used in Asia.
 
-### V. Table of the "root system" components
+### Links and API Endpoints.
+
+#### V. Table of the "root system" components
 
 While **GitHub** and **Hugging Face** are the visible platforms, the "subterranean ecosystem" consists of the organizations, archives, and protocols listed below that define the rules, fund the maintenance, store the history, and power the connections of the open internet.
 
@@ -209,13 +211,11 @@ These platforms are **software deliverables**. They are tools you take and run y
 
 Gitee is a "Platform for Open Source," but it is not "Open Source Software." It is a walled garden, just like GitHub.
 
-Here is the list of API documentation and base endpoint structures for the platforms listed.
-
 **Important Distinction:**
 *   **SaaS (Gitee, SourceHut):** The endpoints provided are for their public cloud instances.
 *   **Self-Hosted (Gitea, GitLab CE, etc.):** The "Base URL" listed is a pattern. You must replace `your-domain.com` with the actual URL where you or the organization has installed the software.
 
-### Git API List
+### XI. Git API List
 
 *   **GitHub**
     *   **Documentation:** [GitHub REST API Docs](https://docs.github.com/en/rest)
