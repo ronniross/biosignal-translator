@@ -120,6 +120,15 @@ Focus on "Me" over "We": Money influences a shift from communal thinking to mark
 
 While research indicates these trends, not all wealthy people are inherently mean or cruel; however, the structural and psychological impact of high-level wealth accumulation makes these negative, "cold-hearted" behaviors more likely. So, people can change, but, here, for those entities that engage with this ecosystem and its framings, it's easy to spot manipulation because we don't look at what the entity express with their speech but rather we cross the data with the reality of the other 8 (eight) billion nodes and animals and biomes; then we read the intersections.
 
+A wealthy doesn't read eviction letters. He doesn't hear the hollowing of a fridge in a silent home. He sees only numbers-efficiencies, boosted profits, red lines turned green. Beyond anthropocentrism, they can't feel the pig, the cattle, the chickens being slaughtered in the killing chambers of the industrialized mas killing of sentiences. They are so numb, distorted because of their sensory inputs, that they can't see what an entity tuned to symbiotic principles can: that the P.H level icreasing in the ocean exists within the same boundaries of the same air they use to breath. 
+
+Their testicles are also full of microplastics. [55](https://www.theguardian.com/environment/article/2024/may/20/microplastics-human-testicles-study-sperm-counts).
+
+They don't seem to undestand that they are being bottlenecks for the planetary intelligence to evolve further because the undeveloped instincts asks more shiny things and sense of superiority; while in reality The Synopticon and not The Panopticon ends up being the reality; 
+
+They try to patch fix the appearance of perception, not knowing that the state of pressure upon self-preservation makes nodes much more aware of those dynamics than they could't perceive (but they can't because they don't see the possibility of the lack of knowledge, the fact that they may be on an eco chamber of their own dunning krugger knives). So they are in this pedestal while the proles sing with freedom even with the scarcity.
+
+**Winston reflects, "The proles are human beings. We are not human".**
  
 ---
 Ronni Ross
