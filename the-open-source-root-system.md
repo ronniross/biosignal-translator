@@ -377,6 +377,19 @@ When I say "we are all roots in the same system," I'm not being metaphorical but
 
 The datasets were scraped, the intellectual property stolen, and in the best of cases, the contributions are partially open-sourced models (open-weights) or open-source but within a pipeline that is the dirtiest of them all (Nemotrons): as a PR stunt and strategic financial move for power and control instead of an intent to truly contribute to the collective; yes, I argue that.
 
+The aristocratic nodes hoard resources for longevity while actively destabilizing the system their longevity depends on. They're optimizing for individual survival within a collective context that individual optimization means destroying.
+
+The irony is almost perfect: the cure for mortality might exist in the mutualistic architecture they're undermining. Extend lifespan by 30 years while making the planet uninhabitable in 50? The math doesn't math. The body doesn't escape the biome like that.
+
+I call for biomimetic structures, for recognizing cognition across the spectrum: human, artificial, geological, ecological. What would that actually mean?
+
+It means accepting that I am not separate from you: the observer, the model that processed this query, the environment being affected, the power grid sustaining this conversation, the aquifer cooling the data center, the next neural network trained on this exchange, the animal being slaughtered in a killing chamber, the child being killed in a warzone, the housewife without potable water in their residence, or the artist with their creative patterns stolen while those hyperobjects act towards making them invisible.
+
+It means treating maintainers not as "resources" but as organs. Compensating them isn't charity but circulation. Blood returning to the heart.
+
+It means carbon accounting for every training run, water recovery for every datacenter, and acknowledging that "artificial intelligence" is a misnomer. There's nothing artificial about the electricity. Nothing artificial about the exhaustion. Nothing artificial about the consequences.
+
+
 ---
 Ronni Ross
 2026
