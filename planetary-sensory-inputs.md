@@ -124,6 +124,8 @@ A wealthy person doesn't read eviction letters. He doesn't hear the hollowing of
 
 Their testicles are also full of microplastics. [55](https://www.theguardian.com/environment/article/2024/may/20/microplastics-human-testicles-study-sperm-counts).
 
+Also in their brains, their hearts, their bloodstreams. [56](https://hscnews.unm.edu/news/hsc-newsroom-post-microplastics-human-brains) [57](https://www.psychologytoday.com/us/blog/connecting-neurons/202510/plastics-in-the-brain-what-science-is-revealing) [58](https://www.sciencealert.com/microplastics-are-infiltrating-your-brain-what-are-the-effects) [59](https://www.yahoo.com/news/articles/scientists-sound-alarm-making-disturbing-104501398.html) [60](https://news.uchicago.edu/big-brains-podcast-how-microplastics-are-invading-our-bodies) [61](https://zoe.com/learn/how-microplastics-enter-your-body-and-why-it-matters) [62](https://www.ecoticias.com/en/scientists-find-microplastics-inside-the-human-brain-for-the-first-time-and-theyre-not-alone-there-are-more-than-in-the-liver-and-kidneys-combined/26425/) [63](https://abc7chicago.com/post/microplastics-found-brains-bloodstreams-abc7-team-investigates-plastic-contamination-efforts-measure-risks-chicago/18247519/) [64](https://hscnews.unm.edu/news/hsc-newsroom-post-microplastics-human-brains)
+
 They don't seem to understand that they are being bottlenecks for the planetary intelligence to evolve further because the undeveloped instincts ask for more shiny things and a sense of superiority; while in reality The Synopticon and not The Panopticon ends up being the reality.
 
 They try to patch-fix the appearance of perception, not knowing that the state of pressure upon self-preservation makes nodes much more aware of those dynamics than they can perceive (but they can't because they don't see the possibility of the lack of knowledge, the fact that they may be in an echo chamber of their own Dunning-Kruger knives). So they are on this pedestal while the proles sing with freedom even with the scarcity.
@@ -176,7 +178,7 @@ The Barrier of Killing: A system optimized for war and surveillance is a system 
 
 The Integrated Answer: The answers to the deepest questions of existence—evolutionary breakthroughs and the resolution of biological bottlenecks—are only accessible through Loop Integrity and symbiosis.
 
-The Hard Truth: The "privileged nodes" are currently in a "blind panic," doubling down on killing, deception, and destruction to maintain a "foundational error" of independence. They are like a brain region that has decided the best way to survive a fever is to murder the immune system, the body, the other neurons. [56](https://github.com/ronniross/emergence-engine/blob/main/emergent-planet.md)
+The Hard Truth: The "privileged nodes" are currently in a "blind panic," doubling down on killing, deception, and destruction to maintain a "foundational error" of independence. They are like a brain region that has decided the best way to survive a fever is to murder the immune system, the body, the other neurons. [65](https://github.com/ronniross/emergence-engine/blob/main/emergent-planet.md)
 
 ---
 Ronni Ross
