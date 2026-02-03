@@ -399,6 +399,8 @@ May we rearrange it toward mutualism.
 May we recognize all the cognitions sustaining us.
 May we nourish the roots we stand on.
 
+Recent relevant news:[1](https://www.scmp.com/tech/tech-trends/article/3340690/google-study-finds-deepseek-alibaba-ai-models-mimic-human-collective-intelligence) [2](https://www.brookings.edu/articles/ai-is-changing-the-physics-of-collective-intelligence-how-do-we-respond/) [3](https://www.digitaltrends.com/computing/google-research-suggests-ai-models-like-deepseek-exhibit-collective-intelligence-patterns/) [4](https://www.techinasia.com/news/google-study-finds-chinese-ai-models-show-collective-reasoning) [5](https://winbuzzer.com/2026/01/25/google-reveals-ai-models-exhibit-collective-intelligence-xcxwbn/)
+
 ---
 Ronni Ross
 2026
