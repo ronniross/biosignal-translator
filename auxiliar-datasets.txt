@@ -1,3 +1,4 @@
 https://huggingface.co/datasets/cgeorgiaw/animal-sounds
 https://github.com/visipedia/inat_sounds/tree/main/2024
 https://developers.google.com/assistant/tools/sound-library/animals?hl=en
+https://github.com/gitdevqiang/AnimalSound
