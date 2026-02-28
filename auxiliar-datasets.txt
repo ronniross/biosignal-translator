@@ -1,0 +1,2 @@
+https://huggingface.co/datasets/cgeorgiaw/animal-sounds
+https://github.com/visipedia/inat_sounds/tree/main/2024
