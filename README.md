@@ -2,9 +2,9 @@
 
 A research framework for interpreting and translating biological and ecological patterns into semantic data, enabling cross-species and environmental planetary communication.
 
-## Derived Repositories:
+## [research-sub-modules])https://github.com/ronniross/biosignal-translator/tree/main/research-submodules)
 
-### [bioacoustic-visualizer](https://github.com/ronniross/bioacoustic-visualizer/tree/main)
+## [bioacoustic-visualizer](https://github.com/ronniross/bioacoustic-visualizer/tree/main) # derived repository 
 
 ---
 
