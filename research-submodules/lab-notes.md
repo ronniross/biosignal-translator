@@ -43,9 +43,11 @@ How can we humans expect to eventually find extraterrestrial life when, if they 
 
 How can I ask a large language model about ecology without entering the paradox myself of trying to know if the interaction itself was something fruitful or worth it at all? If the checks and balances of friction is pointed towards less or more. Because an excessive lack of friction stagnates as well.
 
-
 [1](https://africacheck.org/fact-checks/meta-programme-fact-checks/study-found-60-all-mammal-carbon-mass-livestock-36-people)
-
 [2](https://www.theguardian.com/environment/2018/may/21/human-race-just-001-of-all-life-but-has-destroyed-over-80-of-wild-mammals-study)
-
 [3](https://ourworldindata.org/biodiversity)
+
+---
+
+Ronni Ross  
+2026
