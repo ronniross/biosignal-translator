@@ -1,0 +1,11 @@
+https://www.asiafinancial.com/top-china-owned-cobalt-mine-caused-illness-deaths-in-drc-report
+https://www.fox13news.com/news/forever-chemicals-pfas-rainwater-unsafe-drink-everywhere-earth-study
+https://chemtrust.org/news/raining-pfas-chemicals-globe/
+https://www.washingtonpost.com/books/2025/05/02/they-poisoned-world-forever-chemicals-mariah-blake-review/
+https://www.asce.org/publications-and-news/civil-engineering-source/article/2025/11/05/author-chronicles-disturbing-route-that-made-forever-chemicals-a-societal-menace
+https://www.wvva.com/2026/03/06/emergency-crews-respond-after-miners-suffer-chemical-burns-marshall-county-mine/
+https://www.tovima.com/world/experts-warn-of-severe-environmental-damage-in-middle-east-war/
+https://www.theguardian.com/world/2026/mar/10/bombing-of-irans-oil-infrastructure-to-have-major-environmental-fallout-experts-warn
+https://www.downtoearth.org.in/africa/cobalt-mining-in-democratic-republic-of-the-congo-polluting-air-and-displacing-communities-report
+https://www.travelandtourworld.com/news/article/china-joins-south-korea-thailand-malaysia-and-singapore-exposed-for-shocking-unethical-wildlife-tourism-practices-what-you-need-to-know/
+https://www.nature.com/articles/s41599-025-04831-x
