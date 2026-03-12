@@ -11,3 +11,5 @@
 | 9 | [Down To Earth](https://www.downtoearth.org.in/africa/cobalt-mining-in-democratic-republic-of-the-congo-polluting-air-and-displacing-communities-report) |
 | 10 | [Travel and Tour World](https://www.travelandtourworld.com/news/article/china-joins-south-korea-thailand-malaysia-and-singapore-exposed-for-shocking-unethical-wildlife-tourism-practices-what-you-need-to-know/) |
 | 11 | [Nature](https://www.nature.com/articles/s41599-025-04831-x) |
+| 12 | [Odessa Journal](https://odessa-journal.com/the-dniester-river-polluted-after-a-russian-attack) |
+
