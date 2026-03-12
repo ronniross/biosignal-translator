@@ -12,4 +12,12 @@
 | 10 | [Travel and Tour World](https://www.travelandtourworld.com/news/article/china-joins-south-korea-thailand-malaysia-and-singapore-exposed-for-shocking-unethical-wildlife-tourism-practices-what-you-need-to-know/) |
 | 11 | [Nature](https://www.nature.com/articles/s41599-025-04831-x) |
 | 12 | [Odessa Journal](https://odessa-journal.com/the-dniester-river-polluted-after-a-russian-attack) |
+| 13 | https://en.wikipedia.org/wiki/Decline_in_wild_mammal_populations |
+| 14 | https://ourworldindata.org/wild-mammals-birds-biomass |
+| 15 | https://www.pnas.org/doi/10.1073/pnas.2204892120 |
+| 16 | https://chinaglobalsouth.com/2026/03/11/cmoc-congo-cobalt-pollution-public-health-crisis/ |
+| 17 | https://www.theeastafrican.co.ke/tea/business-tech/largest-cobalt-miner-accused-of-toxic-toll-on-congolese-5387680 |
+| 18 | https://www.wsj.com/business/investigators-say-chinese-cobalt-plant-sickened-congo-town-d50df617 |
+| 19 | https://unn.ua/en/news/russian-attack-caused-transboundary-pollution-of-the-dniester-oil-slicks-found-ukraine-informed-moldova |
+
 
