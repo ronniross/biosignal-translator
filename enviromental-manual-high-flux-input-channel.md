@@ -19,5 +19,17 @@
 | 17 | https://www.theeastafrican.co.ke/tea/business-tech/largest-cobalt-miner-accused-of-toxic-toll-on-congolese-5387680 |
 | 18 | https://www.wsj.com/business/investigators-say-chinese-cobalt-plant-sickened-congo-town-d50df617 |
 | 19 | https://unn.ua/en/news/russian-attack-caused-transboundary-pollution-of-the-dniester-oil-slicks-found-ukraine-informed-moldova |
-
+| 20 | https://www.statnews.com/2025/10/20/biodiversity-loss-health-climate-change-policy/ |
+| 21 | https://www.natureworldnews.com/articles/72759/20260312/biodiversity-loss-effects-how-ecosystem-collapse-threatens-our-world.htm |
+| 22 | https://www.conservation.org/news/why-is-biodiversity-important |
+| 23 | https://news.un.org/en/story/2025/05/1163561 |
+| 24 | https://www.frontiersin.org/news/2026/01/15/mosquitoes-human-blood-biodiversity-loss |
+| 25 | https://theecologist.org/2026/jan/29/biodiversity-loss-threat-security |
+| 26 | https://www.theguardian.com/environment/2026/feb/12/no-excuse-for-inaction-the-push-for-businesses-to-step-up-the-fight-against-biodiversity-loss |
+| 27 | https://www.worldwildlife.org/news/magazine/summer-2021/a-warning-sign-where-biodiversity-loss-is-happening-around-the-world/ |
+| 28 | https://euobserver.com/49137/biodiversity-loss-extreme-weather-and-water-scarcity-is-europes-future-report-warns/ |
+| 29 | https://www.nature.com/articles/s43016-025-01221-z |
+| 30 | https://news.mongabay.com/2025/10/biodiversity-loss-due-to-land-use-change-could-be-highly-underestimated-study/ |
+| 31 | https://www.britannica.com/science/biodiversity-loss/Ecological-effects |
+| 31 | https://earth.org/why-hong-kongs-biodiversity-is-dwindling/ |
 
